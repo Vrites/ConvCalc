@@ -1,5 +1,5 @@
 # vricalc
-====================================================WORK IN PROGESS=============================================
+==================WORK IN PROGESS==================
 
 A basic phone calculator with conversions.
 
